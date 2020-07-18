@@ -91,7 +91,7 @@
   "devDependencies": {
     "antd": "^3.22.0",
     "axios": "^0.19.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react-hot-loader": "^4.12.11",
     "redux-thunk": "^2.3.0",
     "ts-import-plugin": "^1.6.1",
